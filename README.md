@@ -16,6 +16,7 @@ DSA & Problem Solving in Java
 Open to collaborating on open-source projects
 Willing to work on issues and learn from reviews
 Interested in projects that solve real problems
+<hr style="height:3px;border:none;background:#444;">
 📫 Connect With Me
 GitHub: @Prince-ES
 LinkedIn: Prince
