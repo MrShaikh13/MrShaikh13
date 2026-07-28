@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 About Me
+I'm a MERN Stack Developer, building full-stack web applications and learning to integrate AI APIs to improve performance and features.
 
-<!--
-**MrShaikh13/MrShaikh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning
+Open-source workflows and real-world collaboration
+Reading and understanding large codebases
+Improving backend architecture and API design
+DSA & Problem Solving in Java
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Collaboration
+Open to collaborating on open-source projects
+Willing to work on issues and learn from reviews
+Interested in projects that solve real problems
+📫 Connect With Me
+GitHub: @Prince-ES
+LinkedIn: Prince
+⚡ Fun fact: I like revisiting old code to improve it.
